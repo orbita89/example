@@ -6,10 +6,8 @@ use Illuminate\Foundation\Auth\Access\AuthorizesRequests;
 use Illuminate\Foundation\Validation\ValidatesRequests;
 use Illuminate\Routing\Controller as BaseController;
 
-class AddController extends BaseController
+class AdssdController extends BaseController
 {
     use AuthorizesRequests, ValidatesRequests;
-    sadsadas
-cascasca
-ascascasc
+    fffffffffff;
 }
